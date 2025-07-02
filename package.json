@@ -38,7 +38,7 @@
     "@sapphire/type": "^2.6.0",
     "@sapphire/utilities": "^3.18.2",
     "@sentry/cli": "^2.43.0",
-    "@sentry/node": "^9.10.1",
+    "@sentry/node": "^9.34.0",
     "@sentry/profiling-node": "^9.10.1",
     "@sentry/tracing": "^7.120.3",
     "@skyra/env-utilities": "^2.0.0",
