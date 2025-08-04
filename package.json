@@ -78,7 +78,7 @@
     "jest-mock-extended": "^4.0.0",
     "jest-node-exports-resolver": "^1.1.6",
     "jest-resolver-enhanced": "^1.1.0",
-    "lint-staged": "^16.1.2",
+    "lint-staged": "^16.1.4",
     "npm-run-all2": "^8.0.4",
     "prettier": "^3.6.2",
     "ts-jest": "^29.4.0",
