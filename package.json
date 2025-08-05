@@ -61,7 +61,7 @@
     "@sapphire/ts-config": "^5.0.1",
     "@types/jest": "^30.0.0",
     "@types/luxon": "^3.7.1",
-    "@types/node": "^24.1.0",
+    "@types/node": "^24.2.0",
     "@types/ws": "^8.18.1",
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "@typescript-eslint/parser": "^8.38.0",
