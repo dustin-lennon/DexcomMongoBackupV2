@@ -40,7 +40,7 @@
     "@sapphire/type": "^2.6.0",
     "@sapphire/utilities": "^3.18.2",
     "@sentry/cli": "^2.50.2",
-    "@sentry/profiling-node": "^10.0.0",
+    "@sentry/profiling-node": "^10.2.0",
     "@sentry/node": "^10.0.0",
     "@sentry/tracing": "^7.120.4",
     "@skyra/env-utilities": "^2.0.1",
